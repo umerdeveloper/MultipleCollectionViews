@@ -9,8 +9,8 @@
 import UIKit
 
 class DailySpecialsCell: UICollectionViewCell {
-    var logo = UIImageView()
-     var label = UILabel()
+    var logo    = UIImageView()
+     var label  = UILabel()
     
     
     override init(frame: CGRect) {

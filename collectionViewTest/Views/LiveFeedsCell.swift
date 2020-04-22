@@ -9,9 +9,9 @@
 import UIKit
 
 class LiveFeedsCell: UICollectionViewCell {
-    let imageCover = UIView()
-    var logo = UIImageView()
-     var label = UILabel()
+    let imageCover      = UIView()
+    var logo            = UIImageView()
+     var label          = UILabel()
     
     
     override init(frame: CGRect) {

@@ -10,8 +10,8 @@ import UIKit
 
 class AnnouncementCell: UICollectionViewCell {
     
-     var logo = UIImageView()
-     var label = UILabel()
+     var logo   = UIImageView()
+     var label  = UILabel()
     
     
     override init(frame: CGRect) {

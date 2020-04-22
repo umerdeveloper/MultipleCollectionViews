@@ -74,10 +74,6 @@ class HomeVC: UIViewController {
         lfcv.register(LiveFeedsCell.self, forCellWithReuseIdentifier: "liveFeedCell")
         return lfcv
     }()
-    
-    
-    
-    
 
     override func viewDidLoad() {
         super.viewDidLoad()
